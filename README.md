@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BASIL-05
+- 👋 Hi, I’m Basil
 - 👀 I’m interested in learning😴
 - 🌱 I’m currently learning Btech in CSE
 - 💞️ I’m looking to collaborate on ....
